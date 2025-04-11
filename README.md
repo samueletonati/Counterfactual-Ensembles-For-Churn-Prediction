@@ -4,7 +4,6 @@ The repository provides a comprehensive framework for generating interpretable c
 ## Contents
 - **Classifiers:** This folder contains the trained black box model used for churn prediction.
 - **Counterfactual Explanations:** This folder contains local packages for generating counterfactual explanations for LORE_SA and Growing Spheres.
-- **Unicredit_Churn.ipynb:** This notebook provides the data preprocessing and machine learning pipeline for training the churn prediction model.
 - **cfrl.py:** This script implements the Counterfactual Reinforcement Learning method for generating counterfactual explanations.
 - **cp_ils_new.py:** This script implements the CP-ILS method for generating counterfactual explanations.
 - **dice.py:** This script implements the DiCE method for generating counterfactual explanations.
